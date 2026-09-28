@@ -1,0 +1,12 @@
+{
+  "python.analysis.extraPaths": [
+    "./tim_kiem_A_sao",
+    "./LSTM_hco_giam_sat",
+    "./LSTM_hoc_tang_Cuong"
+  ],
+  "python.autoComplete.extraPaths": [
+    "./tim_kiem_A_sao",
+    "./LSTM_hco_giam_sat",
+    "./LSTM_hoc_tang_Cuong"
+  ]
+}
